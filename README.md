@@ -42,5 +42,5 @@ npm start
 База данных активна на localhost:5432
 Клиентская часть запускается на localhost:8080
 
-![image](https://github.com/Irina102/cryptocompare/assets/137715247/7e8d9850-b190-46fe-8c52-e7bed57b8f3e)
+
 
