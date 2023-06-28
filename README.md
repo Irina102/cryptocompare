@@ -40,6 +40,9 @@ npm start
 ```
 Сервер работает на localhost:5000
 База данных активна на localhost:5432
+
+![Презентационный материал](https://github.com/Irina102/cryptocompare/commit/3ce666497bb33fcf3374e320648b0fdba0992b7a
+
 Клиентская часть запускается на localhost:8080
 
 
