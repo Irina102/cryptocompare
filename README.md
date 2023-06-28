@@ -1,7 +1,8 @@
 # cryptocompare
 учебный проект
-Запуск клиента: 
+
 # app
+Запуск клиента: 
 
 ## Project setup
 ```
@@ -26,8 +27,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-Запуск сервера: 
 # server
+Запуск сервера: 
 
 ## Project setup
 ```
@@ -50,7 +51,3 @@ npm start
 ![Screenshot](AR_page.JPG)
 ![Screenshot](User_page.JPG)
 ![Screenshot](Graph.JPG)
-
-
-
-
