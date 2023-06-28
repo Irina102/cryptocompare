@@ -39,11 +39,13 @@ npm install
 npm start
 ```
 Сервер работает на localhost:5000
+
 База данных активна на localhost:5432
 
-![Screenshot](Домашняя страница.png)
-
 Клиентская часть запускается на localhost:8080
+
+![Screenshot](Home_page.png)
+
 
 
 
