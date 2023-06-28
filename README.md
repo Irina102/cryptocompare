@@ -45,6 +45,11 @@ npm start
 Клиентская часть запускается на localhost:8080
 
 ![Screenshot](Home_page.png)
+![Screenshot](registration.JPG)
+![Screenshot](login.JPG)
+![Screenshot](AR_page.JPG)
+![Screenshot](User_page.JPG)
+![Screenshot](Graph.JPG)
 
 
 
